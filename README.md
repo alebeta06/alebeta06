@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Alejandro 👋
+
+###### student in training ✌️
 
 <!--
 **alebeta06/alebeta06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
