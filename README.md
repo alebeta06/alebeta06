@@ -12,7 +12,10 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📟 GitHub Stats 🔝
-[](https://github-readme-stats.vercel.app/api?username={username})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebeta06&show_icons=true&theme=dark)
+
+### 📊 Most Used Language 🔝
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebeta06)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alebeta06/alebeta06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
