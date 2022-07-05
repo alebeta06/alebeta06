@@ -15,7 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebeta06&show_icons=true&theme=dark)
 
 ### 📊 Most Used Language 🔝
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebeta06)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebeta06)]()
 <!--
 **alebeta06/alebeta06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
