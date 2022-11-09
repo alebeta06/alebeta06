@@ -11,6 +11,10 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ### 📟 GitHub Stats 🔝                                                                                              📊 Most Used Language 🔝
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebeta06&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebeta06)]()
 <!--
