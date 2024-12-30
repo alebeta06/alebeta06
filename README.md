@@ -2,6 +2,8 @@
 
 #### student in training ✌️
 
+![Cairo](https://img.shields.io/badge/Cairo-D32F2F?style=for-the-badge&logo=bookstack&logoColor=white)
+![Starknet](https://img.shields.io/badge/Starknet-0C0C4F?style=for-the-badge&logo=starknet&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
