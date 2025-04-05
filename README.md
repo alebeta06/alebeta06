@@ -2,9 +2,10 @@
 
 #### student in training ✌️
 
-![Cairo](https://img.shields.io/badge/Cairo-D32F2F?style=for-the-badge&logo=bookstack&logoColor=white)
-![Starknet](https://img.shields.io/badge/Starknet-0C0C4F?style=for-the-badge&logo=starknet&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+![Cairo](https://img.shields.io/badge/Cairo-D32F2F?style=for-the-badge&logo=bookstack&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![Starknet](https://img.shields.io/badge/Starknet-0C0C4F?style=for-the-badge&logo=starknet&logoColor=white)
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
