@@ -29,7 +29,7 @@ learned shipping.
 - 🔭 Currently completing a **Master's in Blockchain Systems & AI Engineering** (CodeCrypto)
 - 🛡️ Building **open-source security tooling** for Cairo/Starknet (see `cairo-audit-skill` below)
 - 🦀 Learning **Rust** → moving into **Solana** development next
-- 🎓 **4× Anthropic certifications** — Claude, MCP & agentic workflows
+- 🎓 **7× Anthropic certifications** — Claude, MCP & agentic workflows
 - 💬 Open to remote Smart Contract / Protocol / Web3 Security roles (LATAM & global)
 
 ---
