@@ -57,7 +57,7 @@ Decentralized lending protocol on **Starknet**.
 `Cairo` · `TypeScript`
 🔗 [Live Demo](https://btc-lending-project.vercel.app/) · 🎥 [Video](https://www.youtube.com/watch?v=MeWbsV4b8xE)
 
-### 🔁 [my_dex](https://github.com/alebeta06/my_dex)
+### 🔁 [DAG_Yield_Aggregator](https://github.com/alebeta06/DAG_Yield_Aggregator)
 Decentralized exchange built for the **ETH Canal Hackathon**.
 `Solidity` · `TypeScript`
 🔗 [Live Demo](https://mydex-alebeta06s-projects.vercel.app/)
