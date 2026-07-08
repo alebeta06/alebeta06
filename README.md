@@ -36,35 +36,47 @@ learned shipping.
 
 ## 🚀 Featured Projects
 
+### 🛒 [ecommerce-web3](https://github.com/alebeta06/ecommerce-web3)
+Multi-vendor Web3 marketplace on Ethereum Sepolia — buy a EUR-pegged stablecoin (EURT) with a real card via Stripe, then spend it on-chain. Solidity + Foundry contracts, 4 Next.js apps, atomic multi-seller checkout
+
+`Solidity` · `Next.js` · `TypeScript`
+
+🔗 [Live Demo](https://ecommerce-web3-web-customer.vercel.app/) · 🎥 [Video](https://www.youtube.com/watch?v=MqFWcHYnJ5o)
+
 ### 🗳️ [DaoVotacionGasless](https://github.com/alebeta06/DaoVotacionGasless)
 Gasless DAO governance — members vote via **meta-transactions**, so they don't pay gas.
 Production-ready.
-`Solidity` · `Foundry`
-🎥 [Video](https://www.youtube.com/watch?v=0Yt6Gab3BtY)
 
-### 🛒 [ecommerce-web3](https://github.com/alebeta06/ecommerce-web3)
-Full-stack decentralized marketplace — on-chain logic + modern frontend.
-`Solidity` · `Next.js` · `TypeScript`
+`Solidity` · `Foundry`
+
+🎥 [Video](https://www.youtube.com/watch?v=0Yt6Gab3BtY)
 
 ### 🛡️ [cairo-audit-skill](https://github.com/alebeta06/cairo-audit-skill)
 Open-source **Anthropic Agent Skill** for AI-assisted security audits of Cairo smart
 contracts on Starknet. MCP-powered; structures the audit workflow and surfaces known
 vulnerability patterns. *(In active development — paused, resuming Jul–Aug 2026.)*
+
 `Cairo` · `snforge` · `Caracal` · `MCP` · `Agent Skills`
 
 ### 💰 [btc_lending_project](https://github.com/alebeta06/btc_lending_project)
 Decentralized lending protocol on **Starknet**.
+
 `Cairo` · `TypeScript`
+
 🔗 [Live Demo](https://btc-lending-project.vercel.app/) · 🎥 [Video](https://www.youtube.com/watch?v=MeWbsV4b8xE)
 
 ### 🔁 [DAG_Yield_Aggregator](https://github.com/alebeta06/DAG_Yield_Aggregator)
 Decentralized exchange built for the **ETH Canal Hackathon**.
+
 `Solidity` · `TypeScript`
+
 🔗 [Live Demo](https://mydex-alebeta06s-projects.vercel.app/)
 
 ### 📄 [documentSignStorage](https://github.com/alebeta06/documentSignStorage)
 On-chain document authenticity — store and verify document signatures on Ethereum.
+
 `Solidity` · `Next.js` · `TypeScript`
+
 🔗 [Live Demo](https://document-sign-storage.vercel.app/) · 🎥 [Video](https://www.youtube.com/watch?v=JViYTTo-3Vg)
 
 ---
