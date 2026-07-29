@@ -62,13 +62,6 @@ Production-ready.
 
 🎥 [Video](https://www.youtube.com/watch?v=0Yt6Gab3BtY)
 
-### 🛡️ [cairo-audit-skill](https://github.com/alebeta06/cairo-audit-skill)
-Open-source **Anthropic Agent Skill** for AI-assisted security audits of Cairo smart
-contracts on Starknet. MCP-powered; structures the audit workflow and surfaces known
-vulnerability patterns. *(In active development — paused, resuming Jul–Aug 2026.)*
-
-`Cairo` · `snforge` · `Caracal` · `MCP` · `Agent Skills`
-
 ### 💰 [btc_lending_project](https://github.com/alebeta06/btc_lending_project)
 Decentralized lending protocol on **Starknet**.
 
