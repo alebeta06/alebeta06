@@ -36,6 +36,17 @@ learned shipping.
 
 ## 🚀 Featured Projects
 
+### 🤝 [Escrow-DApp](https://github.com/alebeta06/Escrow-DApp)
+Non-custodial escrow for **atomic ERC20 swaps** between two parties who don't trust each
+other — either both legs of the swap settle, or neither does. CEI pushed down to the file
+layout: libraries own the *effects*, the contract owns the *checks* and *interactions*.
+Live on **Ethereum Sepolia** with verified contracts · 32 Foundry tests (100% coverage on
+core contracts) + 6 Playwright E2E tests against a real chain.
+
+`Solidity 0.8.28` · `Foundry` · `Next.js 15` · `ethers v6`
+
+🔗 [Live Demo](https://escrow-d-app-omega.vercel.app) · 🎥 [Video](https://www.youtube.com/watch?v=A6CcRPFZaFY) · 🔍 [Verified contract](https://sepolia.etherscan.io/address/0x426F0B446139098D1CAc0883474b7B53c40F285A#code)
+
 ### 🛒 [ecommerce-web3](https://github.com/alebeta06/ecommerce-web3)
 Multi-vendor Web3 marketplace on Ethereum Sepolia — buy a EUR-pegged stablecoin (EURT) with a real card via Stripe, then spend it on-chain. Solidity + Foundry contracts, 4 Next.js apps, atomic multi-seller checkout
 
@@ -81,12 +92,16 @@ On-chain document authenticity — store and verify document signatures on Ether
 
 ---
 
-## 📊 GitHub Stats
+## 🛡️ Security Work
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alebeta06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alejandro's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebeta06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+Moving into smart contract security auditing. Current focus:
+
+- **[CodeHawks](https://codehawks.cyfrin.io/)** — working through First Flights;
+  findings published as I complete them
+- **[cairo-audit-skill](https://github.com/alebeta06/cairo-audit-skill)** — open-source
+  Agent Skill for AI-assisted Cairo audits *(resuming Jul–Aug 2026)*
+- Audit-minded by default in my own code: strict CEI, custom errors, `SafeERC20`,
+  100% coverage on core contracts
 
 ---
 
