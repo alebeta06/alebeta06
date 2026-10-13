@@ -125,7 +125,6 @@ Smart contract security is where I'm heading. Paused for now while I focus on So
 <p align="center">
   <a href="https://linkedin.com/in/alebeta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Ale_Beta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://warpcast.com/alebeta06"><img src="https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" /></a>
   <a href="https://youtube.com/@alebeta06"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
