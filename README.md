@@ -112,7 +112,7 @@ apps, atomic multi-seller checkout.
 
 ## 🛡️ Security Work
 
-Smart contract security is where I'm heading. Practicing on CodeHawks First Flights alongside my Solana work:
+Smart contract security is my main focus now, practicing on CodeHawks First Flights. I still take on Solana, Starknet and Ethereum bounties when they come up:
 
 - **[codehawks-security-portfolio](https://github.com/alebeta06/codehawks-security-portfolio)**: Puppy Raffle practice audit (First Flight #1). 3 High, 1 Medium and 3 Low, each with a written report, and Foundry PoCs for the Highs and the Medium: reentrancy in `refund()`, weak randomness in `selectWinner()`, `totalFees` truncation and a DoS in `enterRaffle()`. Next: Thunder Loan
 - **[cairo-audit-skill](https://github.com/alebeta06/cairo-audit-skill)**: open-source Agent Skill for AI-assisted Cairo audits
